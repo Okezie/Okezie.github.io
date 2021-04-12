@@ -1,1 +1,1 @@
-function whatsappLink(){if(navigator.userAgent.indexOf("Firefox") !=-1 ){window.open('https://web.whatsapp.com/send?phone=2348168443202', '_blank');}else{window.open('https://Api.whatsapp.com/send?phone=2348168443202', '_blank');}}
+function whatsappLink(){if(navigator.userAgent.indexOf("Firefox") !=-1 ){window.open('https://web.whatsapp.com/send?phone=447451284758', '_blank');}else{window.open('https://Api.whatsapp.com/send?phone=2348168443202', '_blank');}}
